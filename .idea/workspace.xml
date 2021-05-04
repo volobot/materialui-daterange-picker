@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d33f1a0-d49f-4d0e-b0e9-07926a18669c" name="Default Changelist" comment="removed elevation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s4U8nigIKjyAUYdvBMKhvZX89b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\gurja\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\202.6948.73\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gurja\Projects\materialui-daterange-picker" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d33f1a0-d49f-4d0e-b0e9-07926a18669c" name="Default Changelist" comment="" />
+      <created>1620131198577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620131198577</updated>
+      <workItem from="1620131199670" duration="1347000" />
+      <workItem from="1620134464079" duration="1443000" />
+    </task>
+    <task id="LOCAL-00001" summary="removed elevation">
+      <created>1620131255083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620131255083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed elevation">
+      <created>1620134517914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620134517914</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed elevation">
+      <created>1620135117734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620135117734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed elevation" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed elevation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620135118800">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1620135118800" />
+    <state x="2587" y="253" width="585" height="534" key="find.popup" timestamp="1620135009995">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="2587" y="253" width="585" height="534" key="find.popup/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1620135009995" />
+  </component>
+</project>
