@@ -81,7 +81,6 @@ const Menu: React.FunctionComponent<MenuProps> = (props: MenuProps) => {
     dateRange, minDate, maxDate, helpers, handlers,
   };
   return (
-    <Paper elevation={5} square>
       <Grid container direction="row" wrap="nowrap">
         <Grid>
           <Grid container className={classes.header} alignItems="center">
@@ -102,32 +101,31 @@ const Menu: React.FunctionComponent<MenuProps> = (props: MenuProps) => {
           <Divider />
           <Grid container direction="row" justify="center" wrap="nowrap">
             <Month
-              {...commonProps}
-              value={firstMonth}
-              setValue={setFirstMonth}
-              navState={[true, canNavigateCloser]}
-              marker={MARKERS.FIRST_MONTH}
+                {...commonProps}
+                value={firstMonth}
+                setValue={setFirstMonth}
+                navState={[true, canNavigateCloser]}
+                marker={MARKERS.FIRST_MONTH}
             />
             <div className={classes.divider} />
             <Month
-              {...commonProps}
-              value={secondMonth}
-              setValue={setSecondMonth}
-              navState={[canNavigateCloser, true]}
-              marker={MARKERS.SECOND_MONTH}
+                {...commonProps}
+                value={secondMonth}
+                setValue={setSecondMonth}
+                navState={[canNavigateCloser, true]}
+                marker={MARKERS.SECOND_MONTH}
             />
           </Grid>
         </Grid>
         <div className={classes.divider} />
         <Grid>
           <DefinedRanges
-            selectedRange={dateRange}
-            ranges={ranges}
-            setRange={setDateRange}
+              selectedRange={dateRange}
+              ranges={ranges}
+              setRange={setDateRange}
           />
         </Grid>
       </Grid>
-    </Paper>
   );
 };
 
